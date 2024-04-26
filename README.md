@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">About Me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="center">I Code With</h2>
 
 ###
 
@@ -72,7 +72,7 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/mahol">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mahol&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mgd3ekhu2dl6xsnz7dsnzmdina" alt="Spotify recently played"  />
   </a>
 </div>
 

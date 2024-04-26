@@ -2,19 +2,19 @@
 
 ###
 
-<h4 align="left">My name is Mehul Uttam and I'm a Computer Science Undergrad from MITWPU.</h4>
+<h2 align="left">My name is Mehul Uttam and I'm a Computer Science Undergrad from MITWPU.</h2>
 
 ###
 
-<h2 align="center">About Me</h2>
+<h1 align="center">About me</h1>
 
 ###
 
-<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java+DSA<br>🎯 Goals: Develop Future Tech<br>🎲 Fun fact: I am 6'4</h5>
+<h3 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java+DSA<br>🎯 Goals: Develop Future Tech<br>🎲 Fun fact: I am 6'4</h3>
 
 ###
 
-<h2 align="center">I Code With</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="center">You Can Also Connect With Me Here</h3>
+<h2 align="center">You Can Also Connect With Me Here</h2>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h6 align="center">Anyways Listen To Some Music.</h6>
+<h3 align="center">Anyways Listen To Some Music.</h3>
 
 ###
 

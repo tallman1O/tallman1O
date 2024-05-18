@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Mehul Uttam and I'm a Computer Science Undergrad from MITWPU.</h2>
+<h2 align="left">Hi! I'm Mehul Uttam, a Computer Science Undergrad from MITWPU.</h2>
 
 ###
 

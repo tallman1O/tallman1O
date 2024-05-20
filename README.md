@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java+DSA<br>🎯 Goals: Develop Future Tech<br>🎲 Fun fact: I am 6'4</h3>
+<h3 align="left">✨ Developer who can create Web Applications, Perform Machine Learning Tasks And a little bit of Ethical Hacking too<br>📚 I'm currently learning React and Java<br>🎯 Goals: Develop the next Big Thing!<br>🎲 Fun fact: I am 6'4</h3>
 
 ###
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://images.unsplash.com/photo-1632749042303-7f7a18ed6ff0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
+  <img height="300" src="https://i.pinimg.com/originals/f8/69/10/f869109f41754f72d38bcb85f0f47a17.jpg"  />
 </div>
 
 ###
@@ -75,12 +75,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psvm-tallman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psvm-tallman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###

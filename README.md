@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">A CSE Major aiming to Crack the Software World<br><br>- 🔭 I’m working to become a UI/UX + Full Stack Developer<br>- 📚 I'm currently learning NextJS Full Stack Framework<br>- ⚡ In my free time, I watch Youtube and learn some new framework ready to replace my current stack</h4>
+<h4 align="left">A CSE Major aiming to Crack the Software World<br><br>- 🔭 I’m working to become a UI/UX + Full Stack Developer<br>- 📚 I'm currently learning NextJS Full Stack Framework<br>- ⚡ In my free time, I watch Youtube and learn some new framework ready to replace my current stack<br>- Mail : mehulsavio@gmail.com</h4>
 
 ###
 
@@ -49,9 +49,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###

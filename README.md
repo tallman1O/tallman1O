@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">A CSE Major aiming to Crack the Software World<br><br>- 🔭 I’m working to become a UI/UX + Full Stack Developer<br>- 📚 I'm currently learning NextJS Full Stack Framework<br>- ⚡ In my free time, I watch Youtube and learn some new framework ready to replace my current stack<br>- Mail : mehulsavio@gmail.com</h4>
+<h4 align="left">A CSE Major aiming to Crack the Software World<br><br>- 🔭 I’m currently working towards becoming a UI/UX Developer as well as a Full Stack Developer.<br>- 📚 I'm currently learning NextJS Full Stack Framework<br>- ⚡ In my free time, I watch Youtube and learn some new framework ready to replace my current stack<br>- Mail : mehulsavio@gmail.com</h4>
 
 ###
 

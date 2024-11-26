@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=psvm-tallman.psvm-tallman&left_text=Foot Fall"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=psvm-tallman.psvm-tallman&left_text=Foot-Fall"  />
 </div>
 
 ###

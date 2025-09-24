@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="300" src="https://i.ibb.co/2yQq7GH/Linked-In-Banner-Image.png" />
-</div>
 
 ###
 
